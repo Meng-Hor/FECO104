@@ -290,6 +290,6 @@ int main(){
     // }
     // cout << "Column " << col+1 << " has the smallest sum.";
 
-    
+
     return 0;
 }
