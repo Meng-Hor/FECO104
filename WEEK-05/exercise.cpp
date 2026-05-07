@@ -300,8 +300,6 @@ int main(){
     // for(int i=0;(str[i]!='\0');i++){
     //     charLen++;
     // }
-    // // cout << charLen;
-    // // cout << str;
     // for(int i=charLen-1;i>=0;i--){
     //     cout << str[i];
     // }
